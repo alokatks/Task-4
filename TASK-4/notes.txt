@@ -1,0 +1,4 @@
+hyy 
+---
+hii i am learning java file input and output through this project 
+---
